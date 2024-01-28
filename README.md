@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dorian-Orozco
 - 👀 I’m interested in coding, movies, space.
-- 🌱 I’m currently learning C#, SQL, HTML/CSS/JS..
+- 🌱 I’m currently learning C#, MVC Core/Api, HTML/CSS/JS..
 - 📫 How to reach me: dorozco4@ncstudents.niagaracollege.ca
 
 <!---
